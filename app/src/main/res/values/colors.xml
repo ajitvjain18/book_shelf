@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="el_buttons_primary">#387ABA</color>
+    <color name="el_selected_text_color">#3B3F41</color>
+    <color name="el_selected_text_color_alpha_50">#803B3F41</color>
+    <color name="el_selected_text_color_alpha_10">#1ADE4D4D</color>
+    <color name="el_error_text_color">#DE4D4D</color>
+    <color name="el_disabled_text_color">#4D333333</color>
+    <color name="el_submit_text_color">#F5F5F5</color>
+    <color name="invoice_splitter">#80D1D5DA</color>
+    <color name="inv_discount_layout">#EEFAEC</color>
+    <color name="inv_rs">#81C68F</color>
+    <color name="font_white">#FFFFFF</color>
+    <color name="el_grey_outline_color">#D1D5DA</color>
+    <color name="items_title_header_color">#E7F3FF</color>
+    <color name="sale_final_price_color">#4DAF60</color>
+    <color name="item_mapping_background">#F8F8F8</color>
+    <color name="home_fade_out_background_color">#73000000</color>
+    <color name="stock_entry">#e59333</color>
+    <color name="summary_bg_color">#4DC9C9C9</color>
+    <color name="header_color">#3B3F41</color>
+    <color name="green">#65D639</color>
+</resources>

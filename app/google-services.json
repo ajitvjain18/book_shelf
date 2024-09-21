@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496406621441",
+    "project_id": "book-shelf-b43c3",
+    "storage_bucket": "book-shelf-b43c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496406621441:android:0286d2d5eae0fa2e64ff00",
+        "android_client_info": {
+          "package_name": "com.techmania.bookshelf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVvd3l8SjAEuA0Bz4UMM_LHhWmBZ9gmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
